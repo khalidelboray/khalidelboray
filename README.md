@@ -7,4 +7,6 @@ Just a Coumputer Science student
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=yellow)
 ![C#](https://img.shields.io/badge/-CSharp-000?logo=csharp&color=brightgreen)
 
-![Khalid's github stats](https://github-readme-stats.vercel.app/api?username=khalidelboray&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true)
+![Khalid's github stats](https://github-readme-stats.vercel.app/api?username=khalidelboray&btheme=highcontrast&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidelboray&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
