@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khalidelborai" target="blank"><img src="https://img.shields.io/twitter/follow/khalidelborai?logo=twitter&style=for-the-badge" alt="khalidelborai" /></a> </p>
 
-- 🔭 I’m currently working on **Pricate Stuff**
+- 🔭 I’m currently working on **Private Stuff**
 
 - 🌱 I’m currently learning **Neural Networks, Deep Learning for computer vision**
 
