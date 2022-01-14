@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, Deep Learning for computer vision**
 
-- 📝 I regularly write articles on [khalidelboray.me](khalidelboray.me) \/ [khalidelborai.tech](khalidelborai.tech)
+- 📝 I regularly write articles on [khalidelboray.me](https://khalidelboray.me) or [khalidelborai.tech](http://khalidelborai.tech)
 
 - 💬 Ask me about **Perl, Raku, Python**
 
