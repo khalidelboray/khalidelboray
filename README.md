@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PySide6 Part 1](https://khalidelboray.me/2022/02/22/pyside6-1.html)
 - [NNFS with Raku _ Part 1](https://khalidelboray.me/2021/12/01/nnfs-1.html)
 <!-- BLOG-POST-LIST:END -->
 
